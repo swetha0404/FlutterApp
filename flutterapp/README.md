@@ -1,16 +1,4 @@
-# flutter_application_1
+# Project based learning for Flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A flutter app which generates words on clicking, and can be liked as well as unliked. The list of liked words can be displayed on a separate page of the application.
+This project was done with the help of https://codelabs.developers.google.com/ 
